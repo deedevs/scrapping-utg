@@ -7,7 +7,7 @@ const url = "https://immedi8money.com";
 
 // Function to scrape the website
 async function scrapeWebsite() {
-  console.log("Hacking the hell out of the website");
+  console.log("steal the hell out of the website");
 }
 
 // Call the function to initiate the scraping
